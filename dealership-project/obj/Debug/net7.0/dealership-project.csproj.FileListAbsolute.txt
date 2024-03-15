@@ -1,0 +1,15 @@
+C:\mycode\csharp\projects\dealership-project\dealership-project\bin\Debug\net7.0\dealership-project.exe
+C:\mycode\csharp\projects\dealership-project\dealership-project\bin\Debug\net7.0\dealership-project.deps.json
+C:\mycode\csharp\projects\dealership-project\dealership-project\bin\Debug\net7.0\dealership-project.runtimeconfig.json
+C:\mycode\csharp\projects\dealership-project\dealership-project\bin\Debug\net7.0\dealership-project.dll
+C:\mycode\csharp\projects\dealership-project\dealership-project\bin\Debug\net7.0\dealership-project.pdb
+C:\mycode\csharp\projects\dealership-project\dealership-project\obj\Debug\net7.0\dealership-project.csproj.AssemblyReference.cache
+C:\mycode\csharp\projects\dealership-project\dealership-project\obj\Debug\net7.0\dealership-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\mycode\csharp\projects\dealership-project\dealership-project\obj\Debug\net7.0\dealership-project.AssemblyInfoInputs.cache
+C:\mycode\csharp\projects\dealership-project\dealership-project\obj\Debug\net7.0\dealership-project.AssemblyInfo.cs
+C:\mycode\csharp\projects\dealership-project\dealership-project\obj\Debug\net7.0\dealership-project.csproj.CoreCompileInputs.cache
+C:\mycode\csharp\projects\dealership-project\dealership-project\obj\Debug\net7.0\dealership-project.dll
+C:\mycode\csharp\projects\dealership-project\dealership-project\obj\Debug\net7.0\refint\dealership-project.dll
+C:\mycode\csharp\projects\dealership-project\dealership-project\obj\Debug\net7.0\dealership-project.pdb
+C:\mycode\csharp\projects\dealership-project\dealership-project\obj\Debug\net7.0\dealership-project.genruntimeconfig.cache
+C:\mycode\csharp\projects\dealership-project\dealership-project\obj\Debug\net7.0\ref\dealership-project.dll
